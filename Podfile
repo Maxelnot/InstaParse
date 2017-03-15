@@ -6,6 +6,7 @@ target 'InstaParse' do
   use_frameworks!
 
   pod 'Parse'
+  pod 'AFNetworking'
 
   # Pods for InstaParse
 
